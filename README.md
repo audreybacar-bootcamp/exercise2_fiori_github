@@ -32,4 +32,16 @@ SAP UI5 Activity 2 - Github - Group 3
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
+## Rachel Mae Hidalgo
+## rachel.mae.o.hidalgo@accenture.com
+## SAP UI5 Fiori Bootcamp Development
+
+Name: Rachel Mae Hidalgo
+Email: rachel.mae.o.hidalgo@accenture.com
+Learnings:
+1. Basic introduction to Git
+2. Do's and don'ts of git fetch/git pull
+3. Debugging
+4. Alternative to Cache situation / use incognito tab temporarily
+5. Communication is key! team work makes the dream work.
 
