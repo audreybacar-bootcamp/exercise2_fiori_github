@@ -47,3 +47,7 @@ Learnings:
 5. Follow branch-based workflows (feature/, bugfix/)
 6. Push Request and Merge with assigned Approver
 5. Do not store or push from local machines, and never directly commit to main
+
+|**Name:**<br> Audrey Shen Laurence Bacar| 
+|**Email:**<br> audrey.shen.l.dazuon@gmail.com| 
+## Today, I learned about the different commands and capabilities of GitHub. I understood how to create repositories, add and commit changes, and use branches to work on different features. I also learned how GitHub helps track changes and makes it easier to collaborate with others on projects.##
