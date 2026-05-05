@@ -32,4 +32,15 @@ SAP UI5 Activity 2 - Github - Group 3
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
+#### Day 2 Exercise - Learning Summary
 
+Name: Anne Marie Charmaine Mendoza
+Email: anne.marie.c.mendoza@accenture.com
+Learnings: 
+1. Connect SAP Fiori projects to a Git repository using SAP Business Application Studio (BAS)
+2. Clone repositories directly in BAS (recommended approach)
+3. Use fetch to safely check remote updates and pull to sync changes
+4. Commit and push changes only from BAS
+5. Follow branch-based workflows (feature/, bugfix/)
+6. Push Request and Merge with assigned Approver
+5. Do not store or push from local machines, and never directly commit to main
