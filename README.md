@@ -37,8 +37,9 @@ SAP UI5 Activity 2 - Github - Group 3
 ## Winzel Cruz
 ## winzel.cruz@accenture.com
 ## This session is a refresher, because the last time I used Git is on SAP WebIDE. There's a bit of difference. But overall, I'm thankful that I joined this bootcamp regardless of my level in SAP UI5 development and Git.
-Name: Anne Marie Charmaine Mendoza
-Email: anne.marie.c.mendoza@accenture.com
+
+## Anne Marie Charmaine Mendoza
+### Email: anne.marie.c.mendoza@accenture.com
 Learnings: 
 1. Connect SAP Fiori projects to a Git repository using SAP Business Application Studio (BAS)
 2. Clone repositories directly in BAS (recommended approach)
