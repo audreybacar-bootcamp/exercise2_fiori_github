@@ -45,3 +45,23 @@ Learnings:
 4. Alternative to Cache situation / use incognito tab temporarily
 5. Communication is key! team work makes the dream work.
 
+#### Day 2 Exercise - Learning Summary
+
+## Winzel Cruz
+## winzel.cruz@accenture.com
+## This session is a refresher, because the last time I used Git is on SAP WebIDE. There's a bit of difference. But overall, I'm thankful that I joined this bootcamp regardless of my level in SAP UI5 development and Git.
+
+## Anne Marie Charmaine Mendoza
+### Email: anne.marie.c.mendoza@accenture.com
+Learnings: 
+1. Connect SAP Fiori projects to a Git repository using SAP Business Application Studio (BAS)
+2. Clone repositories directly in BAS (recommended approach)
+3. Use fetch to safely check remote updates and pull to sync changes
+4. Commit and push changes only from BAS
+5. Follow branch-based workflows (feature/, bugfix/)
+6. Push Request and Merge with assigned Approver
+5. Do not store or push from local machines, and never directly commit to main
+
+## Audrey Shen Laurence Bacar 
+### Email: audrey.shen.l.dauzon@gmail.com 
+#### Today, I learned about the different commands and capabilities of GitHub. I understood how to create repositories, add and commit changes, and use branches to work on different features. I also learned how GitHub helps track changes and makes it easier to collaborate with others on projects.
